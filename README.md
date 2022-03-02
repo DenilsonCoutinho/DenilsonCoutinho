@@ -1,4 +1,4 @@
-##Olá, sou Denilson coutinho.👋
+##Olá, sou Denilson coutinho.🧐
 
 - 🔭 Atualmente estudo sobre Front-End.
 - 🌱 JS | HTML | CSS | BOOTSTRAP.
