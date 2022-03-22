@@ -1,11 +1,11 @@
 <h1>Olá, sou Denilson coutinho.🧐</h1>
 <br>
 - 🔭 Atualmente estudo sobre Front-End.
-- <br>
+ <br>
 - 🌱 JS | HTML | CSS | BOOTSTRAP.
-- <br>
+ <br>
 - 🧠 Estou estudando mais sobre JavaScript para ter uma base sólida, adiante pretendo usar um framework pra agilizar meus projetos.
-- <br>
+<br>
 - ✉  E-mail: contact.denilsoncoutinho@gmail.com 
 
 <div align="left" dir="auto"> 
