@@ -20,7 +20,7 @@
   <img align="left" alt="deni-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="left" alt="deni-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  
-      <img align="left" alt="deni-sass" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width: 100%;/>
+      <img align="left" alt="deni-sass" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
  
 </div>
