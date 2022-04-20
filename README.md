@@ -2,8 +2,6 @@
  <br>
 <h2>- 🌱 JAVASCRIPT | NODE | REACT | HTML | CSS | BOOTSTRAP | SASS |.</h2>
  <br>
-<h2>- 🧠 Estou estudando mais sobre JavaScript para ter uma base sólida, adiante pretendo usar um framework pra agilizar meus projetos.</h2>
-<br>
 <h2>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </h2>
 
 <div align="left" dir="auto"> 
