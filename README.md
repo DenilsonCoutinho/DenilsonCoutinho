@@ -1,25 +1,34 @@
-<h1>Olá, sou Denilson coutinho.🧐</h1>
-<br>
-- 🔭 Atualmente estudo sobre Front-End.
+<h1>🖥DESENVOLVEDOR FULL-STACK🔌</h1>
  <br>
-- 🌱 JS | HTML | CSS | BOOTSTRAP.
+<h2>- 🌱 JAVASCRIPT | NODE | REACT | HTML | CSS | BOOTSTRAP | SASS |.</h2>
  <br>
-- 🧠 Estou estudando mais sobre JavaScript para ter uma base sólida, adiante pretendo usar um framework pra agilizar meus projetos.
+<h2>- 🧠 Estou estudando mais sobre JavaScript para ter uma base sólida, adiante pretendo usar um framework pra agilizar meus projetos.</h2>
 <br>
-- ✉  E-mail: contact.denilsoncoutinho@gmail.com 
+<h2>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </h2>
 
 <div align="left" dir="auto"> 
   <a href="https://github.com/DenilsonCoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsonCoutinho&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonCoutinho&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsonCoutinho&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonCoutinho&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;">
 </a>
 <div dir="auto"><br>
   <img align="left" alt="deni-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
- 
+  <img  align="left" alt="deni-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+                   
+  <img align="left" alt="deni-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+          
+          
+          
   <img align="left" alt="deni-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="left" alt="deni-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="left" alt="deni-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+        
  
+          
+         
+
 
           
  
