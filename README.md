@@ -1,6 +1,6 @@
 <h1>🖥DESENVOLVEDOR FULL-STACK🔌</h1>
  <br>
-<h2>- 🌱 JAVASCRIPT | NODE | REACT | HTML | CSS | BOOTSTRAP | SASS |.</h2>
+<h2>- 🌱 JAVASCRIPT | NODE | REACT | HTML | CSS | BOOTSTRAP | SASS |</h2>
  <br>
 <h2>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </h2>
 
