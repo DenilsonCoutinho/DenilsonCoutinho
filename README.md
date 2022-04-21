@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonCoutinho&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsonCoutinho&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </a>
+ </div>
 <div dir="auto"><br>
   <img align="left" alt="deni-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img  align="left" alt="deni-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -24,7 +25,7 @@
                  
 </div>
 
-</div>
+
 <div dir="auto"><a href="https://github.com/DenilsonCoutinho"> 
 
  
