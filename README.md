@@ -1,8 +1,12 @@
-<h1 >🖥DESENVOLVEDOR FULL-STACK🔌</h1>
+<h1> 🖐OLÁ! SOU DENILSON COUTINHO 🕴</h1>
+<h1 >🖥Desenvolvedor Web Full-Stack🔌</h1>
+<p>- 🧭Cursando desenvolvimento Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a>
+ <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
+
+<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT | HTML | CSS | BOOTSTRAP | SASS |</p>
+<p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.  
  <br>
-<h2 >- 🌱 JAVASCRIPT | REACT | HTML | CSS | BOOTSTRAP | SASS |</h2>
- <br>
-<h2 >- ✉  E-mail: contact.denilsoncoutinho@gmail.com </h2>
+
 
 <div align="left" dir="auto"> 
   <a href="https://github.com/DenilsonCoutinho">
