@@ -1,6 +1,6 @@
 <h1> 🖐OLÁ! SOU DENILSON COUTINHO 🕴</h1>
 <h1 >🖥Desenvolvedor Web Full-Stack🔌</h1>
-<p>- 🧭Cursando desenvolvimento Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a>
+<p>- 🧭Cursando desenvolvimento web Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a>
  <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
 
 <p>- 💿Tecnologias que uso: JAVASCRIPT | REACT | HTML | CSS | BOOTSTRAP | SASS |</p>
