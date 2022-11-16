@@ -3,7 +3,7 @@
 <p>- 🧭Cursando desenvolvimento web Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a>
  <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
 
-<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT( NEXT.js, Context, import e export ) | HTML | CSS(tailwind) </p>
+<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT.js | HTML | CSS(tailwind) </p>
 <!-- <p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.   -->
  <br>
 
@@ -26,7 +26,10 @@
   <img align="left" alt="deni-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="left" alt="deni-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="left" alt="deni-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-                 
+ 
+            <img alt="deni-tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
+                   
 </div>
 
 
