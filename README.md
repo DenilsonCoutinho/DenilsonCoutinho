@@ -3,8 +3,8 @@
 <p>- 🧭Cursando desenvolvimento web Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a>
  <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
 
-<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT | HTML | CSS | BOOTSTRAP | SASS |</p>
-<p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.  
+<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT(NEXT.js, Context) | HTML | CSS(tailwind) </p>
+<!-- <p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.   -->
  <br>
 
 
