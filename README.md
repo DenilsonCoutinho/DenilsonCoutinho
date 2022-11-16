@@ -1,9 +1,9 @@
-<h1> 🖐OLÁ! SOU DENILSON COUTINHO 🕴</h1>
+<h1> 🖐OLÁ! ME CHAMO DENILSON COUTINHO 🕴</h1>
 <h1 >🖥Desenvolvedor Front-End🔌</h1>
 <p>- 🧭Cursando desenvolvimento web Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a>
  <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
 
-<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT(NEXT.js, Context) | HTML | CSS(tailwind) </p>
+<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT(NEXT.js, Context,import e export) | HTML | CSS(tailwind) </p>
 <!-- <p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.   -->
  <br>
 
