@@ -1,7 +1,8 @@
 <h1> 🖐OLÁ! ME CHAMO DENILSON COUTINHO 🕴</h1>
 <h1 >🖥Desenvolvedor Front-End🔌</h1>
 <!-- <p>- 🧭Cursando desenvolvimento web Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a> -->
- <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
+ <p>-   E-mail: contact.denilsoncoutinho@gmail.com </p>
+ <p>-   whatsapp: (48)9 9110-9700 </p>
 
 <p> Trabalho como desenvolvedor Front-End 
 
