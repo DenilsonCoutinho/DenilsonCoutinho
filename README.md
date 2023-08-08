@@ -3,7 +3,13 @@
 <!-- <p>- 🧭Cursando desenvolvimento web Full-Stack pela <a href="https://onebitcode.com/lp/">Onebitcode</a> -->
  <p>- ✉  E-mail: contact.denilsoncoutinho@gmail.com </p>
 
-<p>- 💿Tecnologias que uso: JAVASCRIPT | REACT.js | NEXTJS| HTML | CSS( tailwind ) </p>
+<p> Trabalho como desenvolvedor Front-End 
+
+Tenho conhecimentos sólidos em: JavaScript, ReactJs, NextJs, Html, Css e Tailwind .
+
+Sou capaz de resolver problemas, revisar código e projetar soluções plausíveis e escaláveis. Além disso, gosto de trabalhar em equipe e discutir melhorias.
+
+Já desenvolvi sites para grandes empresas de Joinville - SC, integrados à API do sistema de reservas poliesportivas da empresa onde trabalhava. Além disso, participei ativamente no início da construção de sistemas para empresas de pequeno e grande porte de Joinville - SC. </p>
 <!-- <p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.   -->
  <br>
 
