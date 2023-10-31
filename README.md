@@ -10,9 +10,7 @@ Tenho conhecimentos sólidos em: JavaScript, ReactJs, NextJs, Html, Css e Tailwi
 
 Sou capaz de resolver problemas, revisar código e projetar soluções plausíveis e escaláveis. Além disso, gosto de trabalhar em equipe e discutir melhorias.
 
-Já desenvolvi sites para grandes empresas de Joinville - SC, integrados à API do sistema de reservas poliesportivas da empresa onde trabalhava. Além disso, participei ativamente no início da construção de sistemas para empresas de pequeno e grande porte de Joinville - SC. </p>
-<!-- <p>- 🔐Tecnologias para aprender: NodeJS, Typescript ,MongoDB e SQL.   -->
- <br>
+ </p>
 
 <div align="left" dir="auto"> 
   <a href="https://github.com/DenilsonCoutinho">
