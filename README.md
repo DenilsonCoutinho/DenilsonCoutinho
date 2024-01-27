@@ -20,7 +20,7 @@
 <br/> <br/> <br/> 
 <h2>Contatos</h2>
 <div dir="auto">
-<a href="www.linkedin.com/in/denilson-c-silva" target="_blank"><img height="90" width="90" src="https://github.com/DenilsonCoutinho/DenilsonCoutinho/assets/94764138/cbd5aefa-0edd-40d0-a75a-49e05d00bb0a" /></a>
+<a href="www.linkedin.com/in/denilson-c-silva"><img height="90" width="90" src="https://github.com/DenilsonCoutinho/DenilsonCoutinho/assets/94764138/cbd5aefa-0edd-40d0-a75a-49e05d00bb0a" /></a>
 </div>
 
 
